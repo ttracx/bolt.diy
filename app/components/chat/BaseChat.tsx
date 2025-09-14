@@ -480,6 +480,10 @@ export const BaseChat = React.forwardRef<HTMLDivElement, BaseChatProps>(
                 {!chatStarted && <StarterTemplates />}
               </div>
             </div>
+            {/* Copyright Footer */}
+            <div className="flex justify-center items-center py-2 text-xs text-bolt-elements-textSecondary">
+              © 2025 VibeCaaS.com, a division of NeuralQuantum.ai LLC. All rights reserved.
+            </div>
           </div>
           <ClientOnly>
             {() => (

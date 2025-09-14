@@ -1,7 +1,5 @@
 # VibeCaaS.Go
 
-[![VibeCaaS.Go: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://vibecaas.com)
-
 Welcome to VibeCaaS.Go, an AI-powered full-stack web development platform that allows you to choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI, HuggingFace, DeepSeek, or Groq models - and it is easily extended to use any other model supported by the Vercel AI SDK! See the instructions below for running this locally and extending it to include more models.
 
 -----

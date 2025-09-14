@@ -57,8 +57,8 @@ const getPackageJson = () => {
     };
   } catch {
     return {
-      name: 'bolt.diy',
-      description: 'A DIY LLM interface',
+      name: 'VibeCaaS.Go',
+      description: 'VibeCaaS.Go - AI-Powered Full-Stack Web Development Platform',
       license: 'MIT',
       dependencies: {},
       devDependencies: {},

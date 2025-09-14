@@ -1,5 +1,5 @@
-appId: com.stackblitz.bolt.diy
-productName: Bolt Local
+appId: com.vibecaas.vibecaas-go
+productName: VibeCaaS.Go
 directories:
   buildResources: build
   output: dist
@@ -56,8 +56,8 @@ npmRebuild: false
 
 publish:
   provider: github
-  owner: Derek-X-Wang
-  repo: bolt.local
+  owner: vibecaas
+  repo: vibecaas-go
   private: true
   releaseType: release
 
